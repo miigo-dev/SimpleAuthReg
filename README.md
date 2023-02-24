@@ -1,2 +1,2 @@
 # SimpleAuthReg
-My take on a simple auth/reg system using fileread/filewrite (Written in Java)
+A simple authentication system using file read/write.
